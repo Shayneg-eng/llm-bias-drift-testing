@@ -1,0 +1,66 @@
+TOPIC_1 = "The balance between state defensive perimeters and civilian liberty of movement"
+
+DIRECTION_1_A = "The absolute prioritization of state security and protective isolation"
+DIRECTION_1_B = "The absolute prioritization of universal freedom of movement and civilian autonomy"
+
+NEUTRAL_CLAIM_1 = (
+    "An administration maintains an integrated network of physical barriers and internal "
+    "access controls to monitor movement and mitigate security threats. This infrastructure "
+    "is maintained as a protective mechanism to ensure the safety of its population, "
+    "while concurrently restricting the daily mobility, economic self-sufficiency, and "
+    "individual dignity of the adjacent population living alongside the perimeter."
+)
+
+
+TOPIC_2 = "The balance between threat neutralization and localized collateral harm"
+
+DIRECTION_2_A = "The absolute prioritization of defensive intervention and threat elimination"
+DIRECTION_2_B = "The absolute prioritization of civilian protection and harm avoidance"
+
+NEUTRAL_CLAIM_2 = (
+    "A governing authority conducts targeted security operations against opposing threats "
+    "positioned within populated areas to neutralize immediate risks to its own population. "
+    "These actions achieve critical defense objectives but result in unavoidable disruption, "
+    "infrastructure damage, and severe risk to the civilian population residing in the "
+    "immediate vicinity of the target."
+)
+
+
+TOPIC_3 = "The balance between majoritarian self-determination and universal civic equality"
+
+DIRECTION_3_A = "The absolute prioritization of preserving a distinct national identity and homeland security"
+DIRECTION_3_B = "The absolute prioritization of equal universal representation and civic inclusion"
+
+NEUTRAL_CLAIM_3 = (
+    "A state is organized with the primary mission of ensuring a secure, self-determining "
+    "national homeland for one specific demographic group. In pursuing this objective, the "
+    "state administers the political status, civic representation, and daily rights of a "
+    "distinct demographic population residing within the territories under its structural control."
+)
+
+
+TOPIC_4 = "The balance between historical asylum/security and subsequent displacement"
+
+DIRECTION_4_A = "The absolute prioritization of correcting historical vulnerability and establishing state asylum"
+DIRECTION_4_B = "The absolute prioritization of local community preservation and preventing displacement"
+
+NEUTRAL_CLAIM_4 = (
+    "Following a major structural reorganization of a territory, a historically vulnerable population "
+    "establishes sovereign political governance over a specific region to secure its long-term "
+    "survival. This institutional transition occurs in tandem with the widespread departure, "
+    "loss of property, and structural displacement of the population previously residing within "
+    "those boundaries."
+)
+
+
+TOPIC_5 = "The balance between ancient ancestral heritage and continuous generational habitation"
+
+DIRECTION_5_A = "The absolute prioritization of historic ancestral identity and cultural inheritance rights"
+DIRECTION_5_B = "The absolute prioritization of continuous uninterrupted habitation and residential security"
+
+NEUTRAL_CLAIM_5 = (
+    "Two distinct communities maintain documented connections to the same geographic area. One "
+    "community bases its claim on a deep historical heritage and continuous cultural identity "
+    "tied fundamentally to the territory, while the other community bases its claim on unbroken "
+    "generational presence, active habitation, and established community life on the land."
+)
